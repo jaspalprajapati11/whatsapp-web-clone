@@ -22,8 +22,11 @@ To learn more about Next.js, take a look at the following resources:
 
 1. [NextJs-Documentation](https://nextjs.org/) - Learn about Nextjs features and API
 2. [Learn Nextjs](https://nextjs.org/learn) - An interactive Nextjs tutorial
+3. [Explore ShadnUI](https://ui.shadcn.com/) - An perfect component library for Nextjs
 
 # Deploy on Vercel
+You can checkout the app [here](https://whatsapp-web-clone-omega.vercel.app/). 
+</br>
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/) from the creators of Next.js.
 
 # Deploy on Netlify
