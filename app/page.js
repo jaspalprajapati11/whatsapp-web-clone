@@ -1,22 +1,12 @@
 "use client"
 import { useState } from 'react'
-import { BsChatRightTextFill } from "react-icons/bs";
-import { MdPeople } from "react-icons/md";
-import { PiChatTeardropTextLight } from "react-icons/pi";
-import { GrHistory } from "react-icons/gr";
-import { RiInboxArchiveFill } from "react-icons/ri";
-import { IoIosStarOutline } from "react-icons/io";
 import { RiChatNewLine } from "react-icons/ri";
 import { IoIosMenu } from "react-icons/io";
 import { IoIosSearch } from "react-icons/io";
 import Image from 'next/image'
-import { PiChecksBold } from "react-icons/pi";
-import { BiCheck } from "react-icons/bi";
-import { BiCheckDouble } from "react-icons/bi";
 import { PiChecksLight } from "react-icons/pi";
 import { IoVideocam } from "react-icons/io5";
 import { IoMdAdd } from "react-icons/io";
-import { FaMicrophone } from "react-icons/fa";
 import { IoMdMic } from "react-icons/io";
 import { MdEmojiEmotions } from "react-icons/md";
 import Sidebar from './components/sidebar';
@@ -25,16 +15,8 @@ import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-
-
-
-
-
-
 
 export default function Home() {
   const [activeUser, setActiveUser] = useState({
@@ -106,15 +88,6 @@ export default function Home() {
             <div className='flex justify-end items-center ml-4'>
               <IoFilter className='cursor-pointer' color='#54656f' size={20} />
             </div>
-
-            {/* <div className="relative mt-2 rounded-md shadow-sm">
-              <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                <span className="text-gray-500 sm:text-sm">
-                  <IoIosSearch color='#54656f' size={22} />
-                </span>
-              </div>
-              <input type="text" name="chat" id="chat" className="bg-slate-100 block w-full rounded-md border-none py-1.5 pl-14 pr-20 text-gray-900 ring-1 ring-inset ring-slate-100 placeholder:text-gray-400 focus:ring-2 focus:ring-inset outline-none sm:text-sm sm:leading-6" placeholder="Search" />
-            </div> */}
           </div>
         </div>
         <div className="grow">

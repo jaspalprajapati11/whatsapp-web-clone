@@ -1,24 +1,11 @@
 import React from 'react'
-import { useState } from 'react'
 import { BsChatRightTextFill } from "react-icons/bs";
 import { MdPeople } from "react-icons/md";
 import { PiChatTeardropTextLight } from "react-icons/pi";
 import { GrHistory } from "react-icons/gr";
 import { RiInboxArchiveFill } from "react-icons/ri";
 import { IoIosStarOutline } from "react-icons/io";
-import { RiChatNewLine } from "react-icons/ri";
-import { IoIosMenu } from "react-icons/io";
-import { IoIosSearch } from "react-icons/io";
-import Image from 'next/image'
-import { PiChecksBold } from "react-icons/pi";
-import { BiCheck } from "react-icons/bi";
-import { BiCheckDouble } from "react-icons/bi";
-import { PiChecksLight } from "react-icons/pi";
-import { IoVideocam } from "react-icons/io5";
-import { IoMdAdd } from "react-icons/io";
-import { FaMicrophone } from "react-icons/fa";
-import { IoMdMic } from "react-icons/io";
-import { MdEmojiEmotions } from "react-icons/md";
+
 
 const Sidebar = () => {
     return (
