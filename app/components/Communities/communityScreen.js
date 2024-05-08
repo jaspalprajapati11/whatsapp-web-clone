@@ -25,7 +25,7 @@ const CommunityScreen = () => {
           <p className='text-sm text-center text-gray-500 font-light'>
             Communities bring members together in topic base groups,
             and make it easy to get admin announcements. Any community
-            you're added to will appear here.
+            you are added to will appear here.
           </p>
         </div>
         <div className='mt-10 self-center'>
