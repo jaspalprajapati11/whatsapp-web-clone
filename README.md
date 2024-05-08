@@ -36,10 +36,14 @@ An alternate platform to deploy your application is [Netlify](https://www.netlif
 
 # Screenshots of the project
 
+![Screenshot 2024-05-08 232149](https://github.com/jaspalprajapati11/whatsapp-web-clone/assets/95084510/271f4cfb-a1e4-4a8c-8a5f-65a17e785cbf)
 
-![Screenshot 2024-04-19 203400](https://github.com/jaspalprajapati11/whatsapp-web-clone/assets/95084510/a62ec7c9-602d-4485-bd42-5c3592663115)
+![Screenshot 2024-05-08 232209](https://github.com/jaspalprajapati11/whatsapp-web-clone/assets/95084510/bbaa71dd-73f6-48cd-ac08-c411136639ec)
 
-![Screenshot 2024-04-19 203414](https://github.com/jaspalprajapati11/whatsapp-web-clone/assets/95084510/13ebf47b-2d1b-49af-8815-4d8b83cd5959)
+![Screenshot 2024-05-08 232239](https://github.com/jaspalprajapati11/whatsapp-web-clone/assets/95084510/7a6336e9-eab9-4fc1-9132-02a3618b6fdf)
+
+
+
 
 
 
